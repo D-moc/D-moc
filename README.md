@@ -1,18 +1,18 @@
-# 👋 Hi, I'm Dinesh Bishokarma  
+# *👋 Hi, I'm Dinesh Bishokarma*  
 
-I’m a **Web Developer** who loves building creative and user friendly websites. I enjoy exploring new technologies and combining design with functionality. Always curious to learn, create, and share ideas through code.  
+*I’m a **Web Developer** passionate about building creative and impactful projects that solve real world problems. I love blending design with functionality and continuously exploring new technologies to craft meaningful digital experiences.*
 
-Follow here👇
+*Connect with me 👇*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imdineshbk)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.dinesh.bk)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karmadinesh159@gmail.com)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imdineshbk)
+*[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelWidth=100)](https://linkedin.com/in/imdineshbk)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&labelWidth=100)](https://instagram.com/__.dinesh.bk)&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&labelWidth=100)](mailto:karmadinesh159@gmail.com)&nbsp;
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white&labelWidth=100)](https://x.com/imdineshbk)*
 
 
 ---
 
-## 💻 Languages & Technologies
+# *💻 Languages & Technologies*
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -38,10 +38,11 @@ Follow here👇
 
 ---
 
-## 📈 Tracking My Growth as a Developer
+## *📈 Tracking My Growth as a Developer..*
+
 
 <div align="left">
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=D-moc&theme=dark&hide_border=false" height="200em" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=D-moc&theme=blue-green&hide_border=false" height="200em" />
 
 </div>
