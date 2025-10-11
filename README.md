@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 About Me  <br><br>Hey there! I'm **Dinesh Bishokarma**, a passionate tech enthusiast who loves exploring everything from **frontend development** to **robotics and embedded systems**.  <br>I’m currently pursuing **Electronics & Computer Engineering** at **K. J. Somaiya College of Engineering**, and I’m also a **Hardware Member at TMRT (The Marine Robotics Team)**.  <br><br>I enjoy building projects that connect both hardware and software — whether it’s a robot that moves or a website that interacts. Recently, I’ve also been diving into **AR/VR development** and experimenting with creative ideas around it.  <br><br>I like learning new things, contributing to team projects, and turning random ideas into something real. Outside of code, I’m usually sketching, exploring tech trends, or working on something fun with my teammates.  <br><br>---<br>
+
 
 
 ## 🌐 Socials:
