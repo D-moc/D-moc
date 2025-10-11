@@ -42,7 +42,7 @@
 
 # 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
   <!-- Two cards side-by-side -->
   <img src="https://github-readme-stats.vercel.app/api?username=D-moc&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="160em" />
@@ -50,10 +50,5 @@
 
 </div>
 
----
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=D-moc&icon=0&color=0" alt="Profile Visit Count" />
-</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
