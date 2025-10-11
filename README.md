@@ -1,13 +1,14 @@
-<!-- ✨ Typing Header Animation -->
-<h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&width=650&lines=Hi%2C+I'm+Dinesh+Bishokarma;Hi%2C+I'm+a+Frontend+Developer;Hi%2C+I'm+an+Aspiring+Full+Stack+Developer;Hi%2C+I'm+a+Tech+Explorer" alt="Typing SVG" />
-</h1>
+# 👋 Hi, I'm Dinesh Bishokarma  
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dinesh.bk)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.dinesh.bk)
+I’m a **Web Developer** who loves building creative and user friendly websites. I enjoy exploring new technologies and combining design with functionality. Always curious to learn, create, and share ideas through code.  
+
+Follow here👇
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imdineshbk)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imdineshbk)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.dinesh.bk)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karmadinesh159@gmail.com)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imdineshbk)
+
 
 ---
 
