@@ -40,7 +40,4 @@
 
 ## *📈 Tracking My Growth as a Developer..*
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=D-moc&theme=blue-green&hide_border=false" alt="GitHub Streak" />
-</p>
-
+![](https://nirzak-streak-stats.vercel.app/?user=D-moc&theme=blue-green&hide_border=false)<br/>
