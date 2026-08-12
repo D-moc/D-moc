@@ -37,6 +37,3 @@
 
 ---
 
-## *📈 Tracking My Growth as a Developer..*
-
-![](https://nirzak-streak-stats.vercel.app/?user=D-moc&theme=blue-green&hide_border=false)<br/>
