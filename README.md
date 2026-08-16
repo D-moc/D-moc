@@ -7,7 +7,6 @@
 *[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelWidth=100)](https://linkedin.com/in/imdineshbk)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&labelWidth=100)](https://instagram.com/__.dinesh.bk)&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&labelWidth=100)](mailto:karmadinesh159@gmail.com)&nbsp;
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white&labelWidth=100)](https://x.com/imdineshbk)*
 
 
 ---
